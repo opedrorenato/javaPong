@@ -1,7 +1,10 @@
 # javaPong
+
+<p align="center">
 The classic game Pong in the programming language we all love: <b>Java</b> ♥
 
 <img width="450" src="https://raw.githubusercontent.com/pedroramos3225/javaPong/master/img/pong.png">
+</p>
 
 ##
 
